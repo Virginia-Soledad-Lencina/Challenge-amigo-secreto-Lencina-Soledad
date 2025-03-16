@@ -4,13 +4,13 @@
    <img src="https://img.shields.io/badge/STATUS-TERMINADO-green">
    </p>
 
-##Índice
+## Índice
 
-*[Descripcion del juego](#descripcion-del-juego)
+* [Descripcion del juego](#descripcion-del-juego)
 
-*[Funcionalidades](#funcionalidades)
+* [Funcionalidades](#funcionalidades)
 
-*[Conclusión](#conclusion)
+* [Conclusión](#conclusion)
 
 ## :two_men_holding_hands: Descripción del juego :two_women_holding_hands:
 
@@ -22,17 +22,19 @@ Este proyecto combina las funcionalidades de javaScript, la estructura de Html y
 
 ## :information_desk_person: Funcionalidades 
 
-    :pencil2: Introducir Nombres: El usuario puede escribir el nombre de un amigo en el cuadro de texto. Luego haciendo clic en el boón "Añadir", este aparecerá en la pantalla. Una vez que el cuadro de texto vuelva a quedar en blanco, podrá agregar otro amigo. Puede incluir tantos como lo desee.
+ :pencil2: Introducir Nombres: El usuario puede escribir el nombre de un amigo en el cuadro de texto. Luego haciendo clic en el boón "Añadir", este aparecerá en la pantalla. Una vez que el cuadro de texto vuelva a quedar en blanco, podrá agregar otro amigo. Puede incluir tantos como lo desee.
 
-    :bookmark_tabs: Lista: Los nombres se irán acomodando automáticamente debajo de la barra de texto y en forma de columna
+ :bookmark_tabs: Lista: Los nombres se irán acomodando automáticamente debajo de la barra de texto y en forma de columna
 
-    :rotating_light: Entrada Invalida: El campo de texto simpre debe contener algun valor al momento de "Añadir", de lo contrario el sistema mostrará una alerta de invalidación de la acción.
+ :rotating_light: Entrada Invalida: El campo de texto simpre debe contener algun valor al momento de "Añadir", de lo contrario el sistema mostrará una alerta de invalidación de la acción.
 
-    :checkered_flag: Sorteo: Una vez completada la lista, se procede al sorteo. Al hacer clic en el botón "Sortear Amigo", el sistema seleccionará aleatoriamente un nombre de la lista proporcionada. Este se mostrará en la página junto a un mensaje.
+ :checkered_flag: Sorteo: Una vez completada la lista, se procede al sorteo. Al hacer clic en el botón "Sortear Amigo", el sistema seleccionará aleatoriamente un nombre de la lista proporcionada. Este se mostrará en la página junto a un mensaje.
  
-    :white_check_mark: Volver a Jugar: En el momento en el que todos los nombres de la lista proporcionada salgan, se mostrará una alertá avisando del hecho. Para volver a comenzar una nueva lista y sorteo, debo refrescar la página.
+ :white_check_mark: Volver a Jugar: En el momento en el que todos los nombres de la lista proporcionada salgan, se mostrará una alertá avisando del hecho. Para volver a comenzar una nueva lista y sorteo, debo refrescar la página.
 
 ## Conclusión
 
-    Si bien este juego clásico se puede hacer en otros formatos fisicos, el digital te permitirá verificar los nombres y realizar un sorteo de forma clara y aleatoria.
+   Si bien este juego clásico se puede hacer en otros formatos fisicos, el digital te permitirá verificar los nombres y realizar un sorteo de forma clara y aleatoria.
+   
+   Los códios escritos en javascript permiten que a medida que se introduzcan los nombres, estos vayan a una lista visible. Una vez que sale un "nombre" este no podra ser sorteado nuevamente, con esto se evita que dos personas tengan el mismo amigo secreto. 
     
